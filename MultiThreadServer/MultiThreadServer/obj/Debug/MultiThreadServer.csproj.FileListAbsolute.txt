@@ -1,0 +1,36 @@
+C:/Users/Student/Desktop/MultiThreadServer/MultiThreadServer/bin/Debug/MultiThreadServer.exe.config
+C:/Users/Student/Desktop/MultiThreadServer/MultiThreadServer/bin/Debug/MultiThreadServer.exe
+C:/Users/Student/Desktop/MultiThreadServer/MultiThreadServer/bin/Debug/MultiThreadServer.pdb
+C:/Users/Student/Desktop/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.AssemblyReference.cache
+C:/Users/Student/Desktop/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.SuggestedBindingRedirects.cache
+C:/Users/Student/Desktop/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.CoreCompileInputs.cache
+C:/Users/Student/Desktop/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.exe
+C:/Users/Student/Desktop/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.pdb
+C:/Users/LastName/Desktop/MultiThreadServer/MultiThreadServer/bin/Debug/MultiThreadServer.exe.config
+C:/Users/LastName/Desktop/MultiThreadServer/MultiThreadServer/bin/Debug/MultiThreadServer.exe
+C:/Users/LastName/Desktop/MultiThreadServer/MultiThreadServer/bin/Debug/MultiThreadServer.pdb
+C:/Users/LastName/Desktop/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.AssemblyReference.cache
+C:/Users/LastName/Desktop/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.SuggestedBindingRedirects.cache
+C:/Users/LastName/Desktop/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.CoreCompileInputs.cache
+C:/Users/LastName/Desktop/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.exe
+C:/Users/LastName/Desktop/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.pdb
+D:/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/bin/Debug/MultiThreadServer.exe.config
+D:/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/bin/Debug/MultiThreadServer.exe
+D:/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/bin/Debug/MultiThreadServer.pdb
+D:/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.AssemblyReference.cache
+D:/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.SuggestedBindingRedirects.cache
+D:/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.CoreCompileInputs.cache
+D:/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.exe
+D:/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.pdb
+/Volumes/KINGSTON/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.AssemblyReference.cache
+/Volumes/KINGSTON/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.csproj.CoreCompileInputs.cache
+/Volumes/KINGSTON/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.exe
+/Volumes/KINGSTON/Новый сервер-клиент/MultiThreadServer/MultiThreadServer/obj/Debug/MultiThreadServer.pdb
+E:\Новый сервер-клиент\MultiThreadServer\MultiThreadServer\bin\Debug\MultiThreadServer.exe.config
+E:\Новый сервер-клиент\MultiThreadServer\MultiThreadServer\bin\Debug\MultiThreadServer.exe
+E:\Новый сервер-клиент\MultiThreadServer\MultiThreadServer\bin\Debug\MultiThreadServer.pdb
+E:\Новый сервер-клиент\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.csproj.AssemblyReference.cache
+E:\Новый сервер-клиент\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.csproj.SuggestedBindingRedirects.cache
+E:\Новый сервер-клиент\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.csproj.CoreCompileInputs.cache
+E:\Новый сервер-клиент\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.exe
+E:\Новый сервер-клиент\MultiThreadServer\MultiThreadServer\obj\Debug\MultiThreadServer.pdb

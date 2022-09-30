@@ -1,0 +1,84 @@
+C:\Users\Admin\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Admin\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Admin\source\repos\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Admin\source\repos\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\LastName\Desktop\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\LastName\Desktop\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\LastName\Desktop\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\LastName\Desktop\ChatClient\ChatClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Student\Desktop\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+C:\Users\Student\Desktop\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Student\Desktop\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\App.g.cs
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Student\Desktop\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+D:\Новый сервер-клиент\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+D:\Новый сервер-клиент\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+D:\Новый сервер-клиент\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\App.g.cs
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+D:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
+E:\Новый сервер-клиент\ChatClient\ChatClient\bin\Debug\ChatClient.exe.config
+E:\Новый сервер-клиент\ChatClient\ChatClient\bin\Debug\ChatClient.exe
+E:\Новый сервер-клиент\ChatClient\ChatClient\bin\Debug\ChatClient.pdb
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.SuggestedBindingRedirects.cache
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\MainWindow.g.cs
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\App.g.cs
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\MainWindow.baml
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.g.resources
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.exe
+E:\Новый сервер-клиент\ChatClient\ChatClient\obj\Debug\ChatClient.pdb
